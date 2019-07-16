@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AR Pet/ViewController.swift"
+            timestampString = "584477647.590917"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Pet.ViewController.sceneView.getter : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "AR Pet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spence/Desktop/AR%20Pet/AR%20Pet/ViewController.swift"
+                  timestampString = "584473921.829951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Pet.ViewController.sceneView.setter : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "AR Pet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spence/Desktop/AR%20Pet/AR%20Pet/ViewController.swift"
+                  timestampString = "584473921.8366849"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Pet.ViewController.sceneView.modify : Swift.Optional&lt;__C.ARSCNView&gt;"
+                  moduleName = "AR Pet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spence/Desktop/AR%20Pet/AR%20Pet/ViewController.swift"
+                  timestampString = "584473921.838625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Pet.ViewController.sceneView.modify : Swift.Optional&lt;__C.ARSCNView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AR Pet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spence/Desktop/AR%20Pet/AR%20Pet/ViewController.swift"
+                  timestampString = "584473921.840207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Pet.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AR_Pet.ViewController"
+                  moduleName = "AR Pet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spence/Desktop/AR%20Pet/AR%20Pet/ViewController.swift"
+                  timestampString = "584473921.842057"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AR_Pet.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AR_Pet.ViewController&gt;"
+                  moduleName = "AR Pet"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spence/Desktop/AR%20Pet/AR%20Pet/ViewController.swift"
+                  timestampString = "584473921.843715"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
